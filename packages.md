@@ -2,4 +2,4 @@
 - [基于Laravel5.1封装的自带多级权限管理的后台管理系统，支持手机和PC端访问](https://github.com/ForoneTech/ForoneAdministrator)
 - [Reliese Laravel is a collection of Laravel Components which aim is to help the development process of Laravel applications by providing some convenient code-generation capabilities](https://github.com/reliese/laravel)
 - [A Laravel package that provides easy access to the php-tmdb/api TMDB (The Movie Database) API wrapper](https://github.com/php-tmdb/laravel)
-- [Flox is a self hosted Movie, Series and Animes watch list](git clone https://github.com/devfake/flox)
+- [Flox is a self hosted Movie, Series and Animes watch list](https://github.com/devfake/flox)
