@@ -6,3 +6,8 @@
 Blog
 ---
 - [PJ Blog](https://github.com/jcc/blog.git)
+- [Vuedo is a blog platform, built with Laravel and Vue.js](https://github.com/Vuedo/vuedo)
+- [Simple, Powerful Blog Publishing Platform](https://github.com/cnvs/canvas)
+- [A blog module](https://github.com/AsgardCms/Blog)
+- [Xblog](https://github.com/lufficc/Xblog)
+- [anchor-cms](https://github.com/anchorcms/anchor-cms)
